@@ -9,6 +9,11 @@
 
 body {
   font-family: "Raleway", sans-serif;
+  font-family: "Raleway", sans-serif;
+  background: linear-gradient(-45deg, #f7f1f1ce, #fffcfd, #deebf0, #d6d9d8);
+	background-size: 400% 400%;
+	animation: gradient 12s ease infinite;
+	height: 200vh;
 }
 
 html {
